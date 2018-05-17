@@ -4,7 +4,7 @@ This is fork of [Shramov Leaflet plugin wrappers](https://github.com/octavm/v-le
 
 This module provides both client (GWT) and server side API for the popular [Shramvov Leaflet extensions](https://github.com/shramov/leaflet-plugins).
 
-Currently the only Google layers are the only implemented features, but more can be easily added. In case you need more features supported, but don't have time or skills to do it, [Vaadin Ltd.](https://vaadin.com) can provide them for you as sponsored development.
+Currently the only Google and Yandex layers are the only implemented features, but more can be easily added. In case you need more features supported, but don't have time or skills to do it, [Vaadin Ltd.](https://vaadin.com) can provide them for you as sponsored development.
 
 Vaadin module depends on [v-leaflet](https://github.com/mstahv/v-leaflet) Vaadin add-on, GWT module depends on [g-leaflet](https://github.com/mstahv/g-leaflet).
 
