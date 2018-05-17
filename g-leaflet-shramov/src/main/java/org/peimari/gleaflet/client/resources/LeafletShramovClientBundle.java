@@ -10,5 +10,7 @@ public interface LeafletShramovClientBundle extends ClientBundle {
 
     @Source("Bing.js")
     TextResource bing();
-    
+
+    @Source("Yandex.js")
+    TextResource yandex();
 }
